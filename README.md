@@ -96,7 +96,7 @@ There’s a need for a **simple, bilingual, voice-enabled platform** that provid
 | **Team Leader**    | **Gaurav Bhatt**     |
 | AI Developer       | **Shreya Mishra**    |
 | Frontend Developer | **Medha Jain**       |
-| Backend Developer  | **Nischay Chaudary** |
+| Backend Developer  | **Nishchay Chaudhary** |
 
 > *“Built with empathy, powered by AI.”*
 
